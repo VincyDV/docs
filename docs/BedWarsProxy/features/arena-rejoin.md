@@ -1,8 +1,4 @@
----
-title: Arena Rejoin
-sidebar_position: 2.2
----
-Rejoin a game you left.
+ft.
 
 #### How does it work?
 When you leave a game or if you get disconnected you can re-join it, based on some conditions.
